@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+	background: url(https://www.iij.ad.jp/global/overseas/ja/indonesia/common/img/main_bg_img_01.png) repeat left top ;
+	background-size: 5px auto;
 }
 
 .App-logo {
